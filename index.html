@@ -194,8 +194,8 @@
 
             if (type === 'youtube') {
               const iframe = document.createElement('iframe')
-              iframe.width = '560'
-              iframe.height = '315'
+              iframe.width = '90%'
+              iframe.height = '800'
               iframe.src = item.video
               iframe.frameborder = '0'
               iframe.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture'
@@ -204,8 +204,8 @@
             } else if (type === 'twitch') {
               const iframe = document.createElement('iframe')
               const id = item.video.split('/').pop()
-              iframe.width = '620'
-              iframe.height = '378'
+              iframe.width = '90%'
+              iframe.height = '800'
               iframe.src = `https://clips.twitch.tv/embed?clip=${id}&parent=${window.location.origin}`
               iframe.frameborder = '0'
               iframe.allowfullscreen = true
@@ -213,8 +213,8 @@
               lightbox.appendChild(iframe)
             } else if (type === 'streamable') {
               const iframe = document.createElement('iframe')
-              iframe.width = '820'
-              iframe.height = '678'
+              iframe.width = '90%'
+              iframe.height = '878'
               iframe.src = item.video
               iframe.frameBorder = '0'
 
