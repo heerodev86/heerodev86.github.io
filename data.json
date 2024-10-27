@@ -1,24 +1,28 @@
 [
-  { "name": "1", "image": "https://placehold.co/600x401.png", "video": "https://streamable.com/i57kw1" },
   {
-    "name": "2",
-    "image": "https://placehold.co/600x402.png",
+    "name": "Samsung",
+    "image": "https://logos-world.net/wp-content/uploads/2020/04/Samsung-Logo.png",
+    "video": "https://streamable.com/i57kw1"
+  },
+  {
+    "name": "Adidas",
+    "image": "https://logos-world.net/wp-content/uploads/2020/04/Adidas-Logo.png",
     "video": "https://www.youtube.com/embed/wtqa_07owyY?si=TTcvtMHljMdlfBH8&amp;clip=Ugkxj7XC1Qeu6aZrKPGU22juyOLDCR1YF0KL&amp;clipt=EMmh5gUY7f7mBQ"
   },
   {
     "name": "3",
     "image": "https://placehold.co/600x403.png",
-    "video": "https://www.youtube.com/embed/wtqa_07owyY?si=TTcvtMHljMdlfBH8&amp;clip=Ugkxj7XC1Qeu6aZrKPGU22juyOLDCR1YF0KL&amp;clipt=EMmh5gUY7f7mBQ"
+    "video": "https://www.twitch.tv/hasanabi/clip/AmazingOpenTermiteHeyGirl-x6de-KzJ9dHs_XaL"
   },
   {
     "name": "4",
     "image": "https://placehold.co/600x404.png",
-    "video": "https://www.twitch.tv/hasanabi/clip/AmazingOpenTermiteHeyGirl-x6de-KzJ9dHs_XaL"
+    "video": "https://streamable.com/i57kw1"
   },
   {
     "name": "5",
     "image": "https://placehold.co/600x405.png",
-    "video": "https://www.twitch.tv/hasanabi/clip/AmazingOpenTermiteHeyGirl-x6de-KzJ9dHs_XaL"
+    "video": "https://www.youtube.com/embed/wtqa_07owyY?si=TTcvtMHljMdlfBH8&amp;clip=Ugkxj7XC1Qeu6aZrKPGU22juyOLDCR1YF0KL&amp;clipt=EMmh5gUY7f7mBQ"
   },
   {
     "name": "6",
