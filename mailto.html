@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script type="text/javascript">
+      // get `email` from the url
+      const urlParams = new URLSearchParams(window.location.search)
+      const email = urlParams.get('email') ?? ''
+      window.location.href = email
+    </script>
+  </head>
+  <body style="background: #000"></body>
+</html>
